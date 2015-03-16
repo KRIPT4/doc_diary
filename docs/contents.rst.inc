@@ -38,3 +38,13 @@ This part of daily changelog.
 
     changeLog
     changeLogExample
+
+
+
+File List
+----------
+
+  ..toctree::
+    :maxdepth: 1
+
+    files/messages_en_CN.properties
