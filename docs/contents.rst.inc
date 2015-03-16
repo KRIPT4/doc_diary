@@ -44,7 +44,7 @@ This part of daily changelog.
 File List
 ----------
 
-  ..toctree::
+.. toctree::
     :maxdepth: 1
 
     files/messages_en_CN.properties
