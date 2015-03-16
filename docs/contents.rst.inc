@@ -44,7 +44,12 @@ This part of daily changelog.
 File List
 ----------
 
+/educoco/WebContent/WEB-INF/templates/
+
 .. toctree::
     :maxdepth: 1
 
-    files/messages_en_CN.properties
+    files/header.js
+    files/messages_zh_CN.properties
+    files/messages_zh_TW.properties
+    files/messages_en_US.properties

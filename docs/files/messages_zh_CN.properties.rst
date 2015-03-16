@@ -1,6 +1,6 @@
-.. _messages_en_US.properties:
+.. _messages_zh_CN.properties:
 
-messages_en_US.properties
+messages_zh_CN.properties
 ================
 
  - **location**: /educoco/src/
@@ -11,5 +11,5 @@ messages_en_US.properties
 New
 ~~~
 
- - template.inviteCrossClassAcceptanceMail=mail_crossClassAccept.ftl
+ - template.inviteCrossClassAcceptanceMail=mail_crossClassAccept-zh_CN.ftl
  - title.invitedMailAccepted=Invited Cross-Circle has been Accepted 
