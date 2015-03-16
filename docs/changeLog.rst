@@ -24,7 +24,7 @@ Changes
 ~~~~~~~
 
 
- - header.js
+ - header.js, see :ref:`header.js`.
  - header.jsp
  - i18N configuration
      - messages_en_US.properties
