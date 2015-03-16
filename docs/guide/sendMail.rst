@@ -1,4 +1,5 @@
 .. _sendmail-guide:
+
 sendMail
 ========
 
