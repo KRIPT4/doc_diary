@@ -16,9 +16,9 @@ New
 
  - SendMailApi.java 
  - i18N template
-     - mail_crossClassAccept-zh_TW.ftl, see :ref:`messages_en_US.properties`.
-     - mail_crossClassAccept-zh_CN.ftl
-     - mail_crossClassAccept.ftl
+     - mail_crossClassAccept-zh_TW.ftl, see :ref:`messages_en_TW.properties`.
+     - mail_crossClassAccept-zh_CN.ftl, see :ref:`messages_en_CN.properties`.
+     - mail_crossClassAccept.ftl, see :ref:`messages_en_US.properties`.
 
 Changes
 ~~~~~~~
