@@ -29,11 +29,11 @@ This part of the documentation dedicates to prople who are looking for informati
     api/sendMail
 
 
-Additional Note
+Change Log
 ---------------
-This part of note declares the license of doc Document. 
+This part of daily changelog. 
 
 .. toctree::
     :maxdepth: 2
 
-    license
+    changeLog
