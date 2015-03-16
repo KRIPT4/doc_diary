@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-0.1.2 (2015-03-16)
+2015-03-16
 ------------------
 
 Doc
@@ -16,7 +16,7 @@ New
 
  - SendMailApi.java 
  - i18N template
-     - mail_crossClassAccept-zh_TW.ftl
+     - mail_crossClassAccept-zh_TW.ftl, see :ref:`messages_en_US.properties`.
      - mail_crossClassAccept-zh_CN.ftl
      - mail_crossClassAccept.ftl
 
