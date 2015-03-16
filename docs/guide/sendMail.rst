@@ -1,4 +1,4 @@
-.. _sendmail-uide:
+.. _sendmail-guide:
 sendMail
 ========
 
