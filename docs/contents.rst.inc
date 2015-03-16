@@ -37,3 +37,4 @@ This part of daily changelog.
     :maxdepth: 2
 
     changeLog
+    changeLogExample
