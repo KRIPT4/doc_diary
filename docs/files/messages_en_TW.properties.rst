@@ -1,4 +1,4 @@
-.. _messages_en_TW.properties:
+.. _messages-en-TW.properties:
 File Change Log
 ================
 
