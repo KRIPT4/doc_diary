@@ -7,7 +7,7 @@ Change Log
 Doc
 ~~~
 
- - APIs relevant to send mails, see :ref:`sendmail_guide`.
+ - APIs relevant to send mails, see :ref:`sendmail-guide`.
 
 
 New
