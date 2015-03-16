@@ -1,2 +1,4 @@
-sendMail
-========
+
+
+[API] sendMail
+===============

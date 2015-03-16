@@ -1,5 +1,5 @@
 .. _sendmail-guide:
 
-sendMail
-========
+[Guide] Send Mail 
+===============
 
