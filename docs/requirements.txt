@@ -1,1 +1,1 @@
-pip install sphinx "sphinxcontrib-httpdomain"
+pip install sphinxcontrib-httpdomain
