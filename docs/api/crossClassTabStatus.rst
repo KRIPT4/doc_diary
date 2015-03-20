@@ -7,16 +7,18 @@
 
    Replies a comment to the post.
 
-   :param groupId: post's unique id
+   :param groupId: group id
    :type groupId: long
    :resheader Content-Type: json
-   :status 400: when form parameters are missing
+   :status 400: when parameters are missing
 
 
 
 .. http:post:: /class_changeTabStatus?(long:groupId)&(boolean:status)
 
-   :param groupId: post's unique id
-   :type groupId: int
+   :param groupId: group id
+   :type groupId: long
+   :param status: true or false 
+   :type status: boolean
    :resheader Content-Type: json
-   :status 400: when form parameters are missing
+   :status 400: when parameters are missing
