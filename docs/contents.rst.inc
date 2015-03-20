@@ -27,6 +27,7 @@ This part of the documentation dedicates to prople who are looking for informati
     :maxdepth: 3
 
     api/sendMail
+    api/crossClassTabStatus
 
 
 Change Log
